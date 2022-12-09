@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-     <h1 class="text-center">Welcome to our new Maven web Application v3 </h1>
+     <h1 class="text-center">Welcome to our new Maven web Application v4 </h1>
       <h1> Event GLSI_P 09/12/2022 </h1>
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style={{width: 300px}}/>
